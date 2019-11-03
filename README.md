@@ -1,5 +1,4 @@
-# loopback4-auth
-
+# loopback-starter
 A LoopBack 4 starter application with:
 
 1. Users
